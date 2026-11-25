@@ -34,6 +34,7 @@ My LeetCode problem solutions and coding practice
 | [0507-perfect-number](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/0507-perfect-number/) | Easy |
 | [0908-smallest-range-i](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/0908-smallest-range-i/) | Easy |
 | [1925-count-square-sum-triples](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/1925-count-square-sum-triples/) | Easy |
+| [1952-three-divisors](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/1952-three-divisors/) | Easy |
 | [2235-add-two-integers](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/2235-add-two-integers/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -54,5 +55,18 @@ My LeetCode problem solutions and coding practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1925-count-square-sum-triples](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/1925-count-square-sum-triples/) | Easy |
+| [1952-three-divisors](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/1952-three-divisors/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1952-three-divisors](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/1952-three-divisors/) | Easy |
+## Prime Factorization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1952-three-divisors](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/1952-three-divisors/) | Easy |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1952-three-divisors](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/1952-three-divisors/) | Easy |
 <!---LeetCode Topics End-->
