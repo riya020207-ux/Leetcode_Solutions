@@ -27,8 +27,17 @@ My LeetCode problem solutions and coding practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/0009-palindrome-number/) | Easy |
+| [0231-power-of-two](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/0231-power-of-two/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/0231-power-of-two/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
