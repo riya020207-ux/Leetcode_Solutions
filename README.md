@@ -9,6 +9,7 @@ My LeetCode problem solutions and coding practice
 | [0027-remove-element](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0088-merge-sorted-array](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0908-smallest-range-i](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/0908-smallest-range-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -28,6 +29,7 @@ My LeetCode problem solutions and coding practice
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0231-power-of-two](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/0231-power-of-two/) | Easy |
+| [0908-smallest-range-i](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/0908-smallest-range-i/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
