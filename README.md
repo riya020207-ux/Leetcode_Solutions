@@ -34,6 +34,7 @@ My LeetCode problem solutions and coding practice
 | [0507-perfect-number](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/0507-perfect-number/) | Easy |
 | [0908-smallest-range-i](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/0908-smallest-range-i/) | Easy |
 | [1925-count-square-sum-triples](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/1925-count-square-sum-triples/) | Easy |
+| [2235-add-two-integers](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/2235-add-two-integers/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
