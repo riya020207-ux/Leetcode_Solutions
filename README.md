@@ -9,6 +9,7 @@ My LeetCode problem solutions and coding practice
 | [0027-remove-element](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0088-merge-sorted-array](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0908-smallest-range-i](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/0908-smallest-range-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -24,6 +25,7 @@ My LeetCode problem solutions and coding practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
