@@ -31,6 +31,7 @@ My LeetCode problem solutions and coding practice
 | [0231-power-of-two](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0507-perfect-number](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/0507-perfect-number/) | Easy |
 | [0908-smallest-range-i](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/0908-smallest-range-i/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
