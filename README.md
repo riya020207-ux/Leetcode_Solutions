@@ -22,4 +22,8 @@ My LeetCode problem solutions and coding practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/0035-search-insert-position/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0009-palindrome-number](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/0009-palindrome-number/) | Easy |
 <!---LeetCode Topics End-->
