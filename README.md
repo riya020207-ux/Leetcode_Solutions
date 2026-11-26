@@ -6,6 +6,7 @@ My LeetCode problem solutions and coding practice
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/0001-two-sum/) | Easy |
 | [0027-remove-element](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0088-merge-sorted-array](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/0088-merge-sorted-array/) | Easy |
@@ -91,5 +92,6 @@ My LeetCode problem solutions and coding practice
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/0217-contains-duplicate/) | Easy |
 <!---LeetCode Topics End-->
