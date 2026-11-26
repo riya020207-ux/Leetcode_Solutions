@@ -9,6 +9,7 @@ My LeetCode problem solutions and coding practice
 | [0027-remove-element](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0088-merge-sorted-array](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0724-find-pivot-index](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0908-smallest-range-i](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/0908-smallest-range-i/) | Easy |
@@ -81,4 +82,8 @@ My LeetCode problem solutions and coding practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1672-richest-customer-wealth](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 <!---LeetCode Topics End-->
