@@ -11,6 +11,7 @@ My LeetCode problem solutions and coding practice
 | [0088-merge-sorted-array](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0908-smallest-range-i](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/0908-smallest-range-i/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,4 +70,8 @@ My LeetCode problem solutions and coding practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1952-three-divisors](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/1952-three-divisors/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 <!---LeetCode Topics End-->
