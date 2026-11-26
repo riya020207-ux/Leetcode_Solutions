@@ -10,6 +10,7 @@ My LeetCode problem solutions and coding practice
 | [0035-search-insert-position](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0088-merge-sorted-array](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0724-find-pivot-index](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0908-smallest-range-i](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/0908-smallest-range-i/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -74,6 +75,7 @@ My LeetCode problem solutions and coding practice
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0724-find-pivot-index](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
