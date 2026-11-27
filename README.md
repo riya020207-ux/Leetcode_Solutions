@@ -9,6 +9,7 @@ My LeetCode problem solutions and coding practice
 | [0001-two-sum](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/0001-two-sum/) | Easy |
 | [0027-remove-element](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0053-maximum-subarray](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0088-merge-sorted-array](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -88,10 +89,15 @@ My LeetCode problem solutions and coding practice
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/0217-contains-duplicate/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/riya020207-ux/Leetcode_Solutions/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
